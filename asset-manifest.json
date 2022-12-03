@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15b3af49.chunk.css",
+    "main.js": "/static/js/main.d8ede305.chunk.js",
+    "main.js.map": "/static/js/main.d8ede305.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5d1efea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5d1efea.js.map",
+    "static/js/2.c1c2f1a4.chunk.js": "/static/js/2.c1c2f1a4.chunk.js",
+    "static/js/2.c1c2f1a4.chunk.js.map": "/static/js/2.c1c2f1a4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d1c2823d84b3f5c62a42a67fd0c14c7c.js": "/precache-manifest.d1c2823d84b3f5c62a42a67fd0c14c7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.15b3af49.chunk.css.map": "/static/css/main.15b3af49.chunk.css.map",
+    "static/media/build.png": "/static/media/build.f3fc160d.png",
+    "static/media/educational.png": "/static/media/educational.dca4ad5b.png",
+    "static/media/home.png": "/static/media/home.64cd5216.png",
+    "static/media/lab.png": "/static/media/lab.872756dc.png",
+    "static/media/marketplace.png": "/static/media/marketplace.c08841d3.png",
+    "static/media/quandefy_logo_nobg.png": "/static/media/quandefy_logo_nobg.81b7e23d.png",
+    "static/media/stake.png": "/static/media/stake.09098e34.png",
+    "static/media/tools.png": "/static/media/tools.384517d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d1efea.js",
+    "static/js/2.c1c2f1a4.chunk.js",
+    "static/css/main.15b3af49.chunk.css",
+    "static/js/main.d8ede305.chunk.js"
+  ]
+}
